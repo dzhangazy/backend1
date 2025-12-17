@@ -1,6 +1,9 @@
 **Assignment #1 — Express.js CRUD API with JSON Storage**
+
 _Student name: Jangazy Bakytzhan_
+
 _Group: SE-2431_
+
 _Project Description_
 
 This project is my first backend application built using Node.js and Express.js.
@@ -21,6 +24,7 @@ API testing using Thunder Client / Postman
 This project demonstrates my understanding of Express fundamentals, routing, middleware, and working with JSON data.
 
 _Project Structure_
+
 project/
 │ server.js
 │ data.json
@@ -31,6 +35,7 @@ project/
 └── node_modules/
 
 _Installation & Running the Server_
+
 1️⃣ Install all dependencies
 
 Before running the server, install required packages:
@@ -48,6 +53,7 @@ The server will start at:
 http://localhost:3000
 
 _API Routes (Implemented by Me)_
+
 🔵 Demo Routes
 GET /
 
